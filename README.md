@@ -1,4 +1,4 @@
-# Candace_Portfolio
+ DSBA Program Portfolio
 ### Data Science and Business Analytics Program Portfolio
 
 This repo consists of projects procurred during my [post graduate certification](https://eportfolio.mygreatlearning.com/candace-bunkley) from February 2022 through September 2022. Each project allowed me to learn more of the fundamentals of data science and business analytics using Python.
